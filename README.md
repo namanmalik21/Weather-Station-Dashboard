@@ -26,7 +26,7 @@ A weather dashboard app built with React that allows users to search for weather
 - OpenWeather API (for retrieving weather data)
 
  ## Demo Link
-    `https://64f0ddcc3a2bd21a085f52d5--scintillating-cucurucho-1de5c6.netlify.app`
+    https://64f0ddcc3a2bd21a085f52d5--scintillating-cucurucho-1de5c6.netlify.app
   
 
 ## Screenshots
